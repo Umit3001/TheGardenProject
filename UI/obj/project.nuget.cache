@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6rTgE+C7PsMReS27aUI8odiVyZSZT/zkIjGnax6QkoajStfLwLzim0EKD8jT6QwFSiKONt2qwKnkvMpjJh/3aA==",
+  "dgSpecHash": "EzjbsWlI0aHcqkEJWsRi5jPD4BsSwBj1bcTIFdTvvAY1paOr/NhHn3nHTQ1DWfIfCUxtFPzLlHDN3LISG1cjrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\duhak\\source\\repos\\Jaar 2\\NoSQL-Project\\UI\\UI.csproj",
+  "projectFilePath": "C:\\Users\\duhak\\Documents\\GitHub\\Extra\\TheGardenProject\\UI\\UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duhak\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\duhak\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
